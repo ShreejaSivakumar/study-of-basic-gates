@@ -118,11 +118,8 @@ endmodule
 
 
 **Result:**
-
-   Thus the given logic functions are implemented using logic gates and their operations
- are verified using Verilog programming.
-
-
+        Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
+   
 
 
 
